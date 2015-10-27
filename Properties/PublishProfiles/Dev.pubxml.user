@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\SitecoreMVC\Website</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Config/Include/Glass.Mapper.Sc.CodeFirst.config.exclude">
+      <publishTime>09/21/2015 15:53:23</publishTime>
+    </File>
+    <File Include="App_Config/Include/Glass.Mapper.Sc.config">
+      <publishTime>09/21/2015 15:53:23</publishTime>
+    </File>
+    <File Include="App_Config/Include/Glass.Mapper.Sc.Start.config">
+      <publishTime>09/21/2015 15:53:23</publishTime>
+    </File>
+    <File Include="bin/Castle.Core.dll">
+      <publishTime>09/21/2015 15:53:20</publishTime>
+    </File>
+    <File Include="bin/Glass.Mapper.dll">
+      <publishTime>09/21/2015 15:53:20</publishTime>
+    </File>
+    <File Include="bin/Glass.Mapper.Sc.dll">
+      <publishTime>09/21/2015 15:53:20</publishTime>
+    </File>
+    <File Include="bin/Glass.Mapper.Sc.Mvc.dll">
+      <publishTime>09/21/2015 15:53:20</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Analytics.dll">
+      <publishTime>12/12/2014 16:46:04</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Analytics.Model.dll">
+      <publishTime>12/12/2014 16:46:06</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Kernel.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Mvc.Analytics.dll">
+      <publishTime>12/12/2014 16:46:42</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Mvc.dll">
+      <publishTime>09/13/2015 14:22:05</publishTime>
+    </File>
+    <File Include="bin/Sitecore.SharedSource.AddToCalendar.dll">
+      <publishTime>10/27/2015 17:37:22</publishTime>
+    </File>
+    <File Include="bin/Sitecore.SharedSource.AddToCalendar.pdb">
+      <publishTime>10/27/2015 17:37:22</publishTime>
+    </File>
+    <File Include="bin/SitecoreMVC.dll">
+      <publishTime>10/26/2015 17:01:11</publishTime>
+    </File>
+    <File Include="bin/SitecoreMVC.pdb">
+      <publishTime>10/26/2015 17:01:11</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>09/13/2015 14:20:29</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>09/18/2015 17:43:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>09/13/2015 14:20:29</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Deployment.dll">
+      <publishTime>09/13/2015 14:20:29</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.dll">
+      <publishTime>09/13/2015 14:20:29</publishTime>
+    </File>
+    <File Include="bin/System.Web.Webpages.Razor.dll">
+      <publishTime>09/13/2015 14:20:29</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>09/30/2015 12:43:14</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/13/2015 14:20:55</publishTime>
+    </File>
+    <File Include="Libs/Sitecore.Kernel.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Libs/Sitecore.Mvc.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Libs/System.Web.Mvc.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/21/2015 15:53:23</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/AddToCalendar/Index.cshtml">
+      <publishTime>10/27/2015 12:07:15</publishTime>
+    </File>
+    <File Include="Views/Controls/Header.cshtml">
+      <publishTime>10/26/2015 13:54:50</publishTime>
+    </File>
+    <File Include="Views/Controls/SpotLight.cshtml">
+      <publishTime>09/21/2015 17:05:42</publishTime>
+    </File>
+    <File Include="Views/GeoIP/Index.cshtml">
+      <publishTime>09/30/2015 12:51:03</publishTime>
+    </File>
+    <File Include="Views/MainLayout.cshtml">
+      <publishTime>10/26/2015 12:46:40</publishTime>
+    </File>
+    <File Include="Views/PageContent/Index.cshtml">
+      <publishTime>09/30/2015 12:52:14</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>09/30/2015 12:43:14</publishTime>
+    </File>
+    <File Include="Views/View1.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/ViewLayout1.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>09/21/2015 10:19:44</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>09/30/2015 12:58:33</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/21/2015 15:53:32</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
